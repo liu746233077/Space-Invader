@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=GamePanel
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ GamePanel\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=GamePanel()
+comment2.params=
+comment2.target=void\ initGame()
+comment3.params=
+comment3.target=void\ shoot()
+comment4.params=
+comment4.target=void\ spawnMothership()
+comment5.params=aBrush
+comment5.target=void\ paintComponent(java.awt.Graphics)
+comment6.params=
+comment6.target=void\ newWave()
+comment7.params=e
+comment7.target=void\ actionPerformed(java.awt.event.ActionEvent)
+numComments=8
